@@ -11,6 +11,10 @@ public class Main {
 
         temp = new StockItem("cake", 1.10, 7);
         stockList.addStock(temp);
+		
+		
+		
+		
 
         temp = new StockItem("car", 12.50, 2);
         stockList.addStock(temp);
